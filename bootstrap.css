@@ -1,6 +1,5 @@
-.jumbo{
-    font-family: 'Allison', cursive;
-    font-size: 300px;
+html{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 body{
     background-image: url(https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2019-12/redpencil.png?itok=w7_FVsjW);
